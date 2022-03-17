@@ -1,0 +1,16 @@
+.carousel {
+    position: relative;
+    z-index: -1;
+    margin-top: -10vw;
+}
+
+.navbar-brand {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.4vw;
+}
+
+.nav-link {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1vw;
+    letter-spacing: 2px;
+}

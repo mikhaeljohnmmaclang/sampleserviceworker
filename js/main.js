@@ -9,3 +9,7 @@ if ('serviceWorker' in navigator) {
             .catch(err => console.log(`Service Worker Error: ${err}`))
     });
 }
+$(document).ready(function() {
+    $("#header").load("../header.html");
+    $("#footer").load("../footer.html");
+});
